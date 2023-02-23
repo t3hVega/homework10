@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         task1_2();
         task3();
+        System.out.println("ДЗ сделано");
     }
     public static void task1_2() {
         System.out.println("Задача 1:");
